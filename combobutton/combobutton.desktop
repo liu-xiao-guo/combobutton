@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=combobutton
+Exec=combobutton
+Icon=combobutton/combobutton.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

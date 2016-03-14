@@ -1,0 +1,17 @@
+{
+    "name": "combobutton.liu-xiao-guo",
+    "description": "description of combobutton",
+    "architecture": "@CLICK_ARCH@",
+    "title": "combobutton",
+    "hooks": {
+        "combobutton": {
+            "apparmor": "combobutton/combobutton.apparmor",
+            "desktop":  "combobutton/combobutton.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
